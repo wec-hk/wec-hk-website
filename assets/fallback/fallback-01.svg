@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+    <rect width="1200" height="700" fill="#0a171d"/>
+    <g transform="translate(335 130)"><circle cx="270" cy="240" r="210" fill="#00c2ff" opacity=".16" stroke="#effcff" stroke-width="5"/><circle cx="270" cy="240" r="135" fill="none" stroke="#effcff" stroke-width="4"/><path d="M650 70v420M700 70v420" stroke="#effcff" stroke-width="9"/></g>
+    <text x="70" y="74" fill="#00c2ff" font-family="Arial" font-size="14" letter-spacing="5">RESTAURANT / IMAGE FALLBACK 01</text>
+    <text x="70" y="650" fill="#effcff" font-family="Arial" font-size="20" font-weight="700">wec-hk</text>
+  </svg>

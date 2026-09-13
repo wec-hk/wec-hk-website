@@ -1,0 +1,168 @@
+{
+  "buildId": "1789265088878-wec-hk",
+  "dna": {
+    "brandName": "wec-hk",
+    "slug": "wec-hk",
+    "industry": "restaurant",
+    "commerce": false,
+    "audience": "Guests planning dining experiences and special occasions",
+    "idea": "A hospitality-first restaurant experience with menu discovery, reservations, events, story and visit information.",
+    "tone": "warm",
+    "realContacts": false,
+    "email": "support@wec-hk.example",
+    "phone": "+1 202-555-0168",
+    "demoContacts": true,
+    "constraints": {
+      "industryLock": true,
+      "forbidCrossIndustryContent": true,
+      "demoDataClearlyMarked": true,
+      "maxAssetBytes": 1000000
+    }
+  },
+  "architecture": {
+    "id": "editorial-magazine",
+    "family": "editorial",
+    "nav": "masthead",
+    "footer": "editorial",
+    "skeleton": [
+      "cover",
+      "issueIndex",
+      "featureStory",
+      "collectionRail",
+      "editorialGrid",
+      "newsletter"
+    ],
+    "traits": [
+      "asymmetric",
+      "large-type",
+      "story-led"
+    ]
+  },
+  "visual": {
+    "palette": [
+      "#0b0d10",
+      "#f4f1ea",
+      "#d9ff44",
+      "#8ea0ff",
+      "#24282f"
+    ],
+    "type": "compact-sans",
+    "density": "quiet",
+    "shape": "soft",
+    "motion": "reveal",
+    "imageTreatment": "full-bleed",
+    "architectureFamily": "editorial"
+  },
+  "pages": [
+    "home",
+    "about",
+    "contact",
+    "support",
+    "privacy",
+    "terms",
+    "experience",
+    "menu",
+    "reservations",
+    "events",
+    "visit",
+    "gallery"
+  ],
+  "mediaPlan": [
+    {
+      "slot": 1,
+      "role": "hero",
+      "query": "restaurant dining room",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 2,
+      "role": "editorial",
+      "query": "table setting editorial",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 3,
+      "role": "product",
+      "query": "open kitchen",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 4,
+      "role": "detail",
+      "query": "cocktail bar interior",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 5,
+      "role": "lifestyle",
+      "query": "chef plating dish",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 6,
+      "role": "story",
+      "query": "restaurant dining room",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 7,
+      "role": "hero",
+      "query": "table setting editorial",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 8,
+      "role": "editorial",
+      "query": "open kitchen",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 9,
+      "role": "product",
+      "query": "cocktail bar interior",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 10,
+      "role": "detail",
+      "query": "chef plating dish",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 11,
+      "role": "lifestyle",
+      "query": "restaurant dining room",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 12,
+      "role": "story",
+      "query": "table setting editorial",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 13,
+      "role": "hero",
+      "query": "open kitchen",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 14,
+      "role": "editorial",
+      "query": "cocktail bar interior",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 15,
+      "role": "product",
+      "query": "chef plating dish",
+      "industry": "restaurant"
+    },
+    {
+      "slot": 16,
+      "role": "detail",
+      "query": "restaurant dining room",
+      "industry": "restaurant"
+    }
+  ]
+}

@@ -1,13 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
-    <rect width="1600" height="900" fill="#0b0c0e"/>
-    <rect x="50" y="50" width="1500" height="800" rx="34" fill="#15171a" stroke="#f3f3ee" stroke-opacity=".15"/>
-    <text x="110" y="150" font-family="Arial" font-size="20" letter-spacing="6" fill="#d7ff44">BRANDFORGE / RESTAURANT</text>
-    <text x="106" y="310" font-family="Arial" font-size="116" font-weight="800" letter-spacing="-7" fill="#f3f3ee">wec-hk</text>
-    <text x="110" y="380" font-family="Arial" font-size="28" fill="#f3f3ee" opacity=".7">Professional website system in progress</text>
-    <rect x="110" y="470" width="650" height="2" fill="#d7ff44"/>
-    <g transform="translate(110 520)"><text font-family="Arial" font-size="15" fill="#d7ff44">01</text><text y="42" font-family="Arial" font-size="30" font-weight="700" fill="#f3f3ee">Menu</text></g><g transform="translate(500 520)"><text font-family="Arial" font-size="15" fill="#d7ff44">02</text><text y="42" font-family="Arial" font-size="30" font-weight="700" fill="#f3f3ee">Reservations</text></g><g transform="translate(110 640)"><text font-family="Arial" font-size="15" fill="#d7ff44">03</text><text y="42" font-family="Arial" font-size="30" font-weight="700" fill="#f3f3ee">Private Dining</text></g><g transform="translate(500 640)"><text font-family="Arial" font-size="15" fill="#d7ff44">04</text><text y="42" font-family="Arial" font-size="30" font-weight="700" fill="#f3f3ee">Events</text></g>
-    <rect x="1040" y="205" width="400" height="470" rx="30" fill="#d7ff44" fill-opacity=".12"/>
-    <circle cx="1240" cy="440" r="140" fill="#d7ff44" fill-opacity=".18"/>
-    <circle cx="1240" cy="440" r="90" fill="none" stroke="#f3f3ee" stroke-opacity=".55" stroke-width="2"/>
-    <text x="110" y="790" font-family="Arial" font-size="16" fill="#f3f3ee" opacity=".45">README FIRST → WEBSITE → QA → GITHUB COMPLETION</text>
+  <rect width="1600" height="900" fill="#0b0d10"/>
+  <rect x="46" y="42" width="1508" height="816" rx="28" fill="#24282f" stroke="#f4f1ea" stroke-opacity=".18"/>
+  <rect x="74" y="70" width="1452" height="62" rx="16" fill="#0b0d10" stroke="#f4f1ea" stroke-opacity=".12"/>
+  <circle cx="108" cy="101" r="7" fill="#d9ff44"/><circle cx="132" cy="101" r="7" fill="#8ea0ff"/><circle cx="156" cy="101" r="7" fill="#f4f1ea" fill-opacity=".35"/>
+  <text x="206" y="110" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" fill="#f4f1ea">wec-hk</text>
+  <text x="1355" y="110" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#f4f1ea" opacity=".65">RESTAURANT</text>
+
+  <rect x="74" y="160" width="890" height="650" rx="20" fill="#0b0d10"/>
+  <text x="112" y="218" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4" fill="#d9ff44">EDITORIAL-MAGAZINE</text>
+  <text x="108" y="320" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" letter-spacing="-4" fill="#f4f1ea">Come for dinner. Stay</text><text x="108" y="408" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" letter-spacing="-4" fill="#f4f1ea">for the room.</text>
+  <rect x="108" y="674" width="230" height="62" rx="31" fill="#d9ff44"/>
+  <text x="150" y="714" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#0b0d10">EXPLORE WEBSITE</text>
+  <text x="108" y="778" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#f4f1ea" opacity=".55">BRANDFORGE PROFESSIONAL SITE SYSTEM</text>
+
+  <rect x="990" y="160" width="536" height="410" rx="20" fill="#d9ff44" fill-opacity=".14"/>
+  <circle cx="1258" cy="365" r="155" fill="#d9ff44" fill-opacity=".22"/>
+  <circle cx="1258" cy="365" r="100" fill="none" stroke="#f4f1ea" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M1080 455 L1190 250 L1285 410 L1390 285 L1460 455" fill="none" stroke="#d9ff44" stroke-width="18" stroke-linecap="round"/>
+
+  <g transform="translate(990 594)">
+    <g transform="translate(0 0)">
+      <rect width="250" height="92" rx="16" fill="#0b0d10" stroke="#f4f1ea" stroke-opacity=".12"/>
+      <text x="22" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d9ff44">01</text>
+      <text x="22" y="65" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f4f1ea">Menu</text>
+    </g><g transform="translate(264 0)">
+      <rect width="250" height="92" rx="16" fill="#0b0d10" stroke="#f4f1ea" stroke-opacity=".12"/>
+      <text x="22" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d9ff44">02</text>
+      <text x="22" y="65" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f4f1ea">Reservations</text>
+    </g><g transform="translate(0 106)">
+      <rect width="250" height="92" rx="16" fill="#0b0d10" stroke="#f4f1ea" stroke-opacity=".12"/>
+      <text x="22" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d9ff44">03</text>
+      <text x="22" y="65" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f4f1ea">Private Dining</text>
+    </g><g transform="translate(264 106)">
+      <rect width="250" height="92" rx="16" fill="#0b0d10" stroke="#f4f1ea" stroke-opacity=".12"/>
+      <text x="22" y="34" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#d9ff44">04</text>
+      <text x="22" y="65" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f4f1ea">Events</text>
+    </g>
+  </g>
   </svg>
