@@ -1,0 +1,11 @@
+name: Content update
+description: Request a content correction or business-data update
+title: "[Content] "
+labels: [content]
+body:
+  - type: textarea
+    id: update
+    attributes:
+      label: What should be changed?
+    validations:
+      required: true
